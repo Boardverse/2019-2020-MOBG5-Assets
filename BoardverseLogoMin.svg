@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   style="clip-rule:evenodd;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2"
+   id="svg114"
+   version="1.1"
+   stroke-miterlimit="2"
+   height="500"
+   width="500">
+  <defs
+     id="defs118" />
+  <g
+     style="fill:#d01f26"
+     transform="scale(0.59952038)"
+     id="g112">
+    <ellipse
+       id="ellipse100"
+       ry="46.756001"
+       rx="46.757"
+       cy="417.371"
+       cx="219.894" />
+    <ellipse
+       id="ellipse102"
+       ry="46.756001"
+       rx="46.757"
+       cy="417.371"
+       cx="413.54599" />
+    <ellipse
+       id="ellipse104"
+       ry="46.756001"
+       rx="46.757"
+       cy="611.02301"
+       cx="413.54599" />
+    <ellipse
+       id="ellipse106"
+       ry="46.756001"
+       rx="46.757"
+       cy="223.72501"
+       cx="413.54599" />
+    <ellipse
+       id="ellipse108"
+       ry="46.756001"
+       rx="46.757"
+       cy="417.371"
+       cx="607.19202" />
+    <path
+       style="fill-rule:nonzero"
+       id="path110"
+       d="m 417.471,41.326 c 18.26147,0.357031 35.71925,7.575772 48.9,20.22 l 305.756,305.755 c 25.422,26.407 26.676,71.815 0,99.525 L 466.371,772.581 c -26.529,25.54 -72.24,26.265 -99.519,0 L 61.096,466.826 c -25.54,-26.529 -26.27,-72.246 0,-99.525 L 366.852,61.546 c 13.656,-13.147 30.237,-20.338 50.614,-20.22 z m -1.303,34.949 c -9.30381,0.18648 -18.19847,3.859545 -24.923,10.292 L 86.112,391.705 c -13,13.51 -13.446,36.767 0,50.732 l 305.133,305.128 c 13.5,13.001 36.763,13.442 50.733,0 L 747.111,442.437 c 12.995,-13.505 13.441,-36.767 -0.005,-50.727 L 441.973,86.577 C 435.017,79.881 426.592,76.212 416.168,76.28 Z" />
+  </g>
+</svg>
